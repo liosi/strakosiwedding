@@ -304,6 +304,8 @@ require get_template_directory() . '/inc/customizer.php';
  */
 require get_template_directory() . '/inc/jetpack.php';
 
+add_image_size('our_past', 800, 530, true);
+add_image_size('the_cast', 400, 400, true);
 
 /**
  * Load the Lily theme widgets
@@ -356,6 +358,5 @@ function lily_remove_subtitles_support() {
     remove_post_type_support( 'page', 'subtitles' );
 }
 add_action( 'init', 'lily_remove_subtitles_support' );
-
 
 ?>

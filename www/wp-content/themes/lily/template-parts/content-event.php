@@ -23,10 +23,12 @@
 <div class="row">
 	<div class="timeline">
 	    <ul> 
-			<?php while ( $the_events_query->have_posts() ) : $the_events_query->the_post(); ?> 
+			<?php while ( $the_events_query->have_posts() ) : $the_events_query->the_post();
+
+	    ?>
 				<li>
 				  	<div class="timeline-date">
-						<span class="entry-meta"><?php echo get_the_date(); ?></span>
+						<span class="entry-meta"><?php echo get_field('time', get_the_id()); ?></span>
 					</div>
 					<div class="timeline-content-container">
 						<?php //Grab the featured image ?>

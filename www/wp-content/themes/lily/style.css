@@ -1423,6 +1423,8 @@ a:active {
 
 .hero-text-panel {
     max-width: 80%;
+    background-color:rgba(0,0,0,.4);
+    padding:30px;
     margin: 0 auto;
     position: relative;
     top: 50%;
@@ -1440,7 +1442,7 @@ a:active {
 
 .hero-text-panel h2 {
     font-size: 1.875rem;
-    font-weight: 100;
+    font-weight: 200;
     line-height: 1.25;
     margin: 0 0 1rem;
     text-transform: uppercase;
@@ -1466,13 +1468,13 @@ a:active {
 
 @media only screen and (min-width: 41.688em) {
     .hero-text-panel h3 {
-        font-size: 7rem;
+        font-size: 4rem;
     }
 }
 
 @media only screen and (min-width: 50em) {
     .hero-text-panel h3 {
-        font-size: 10rem;
+        font-size: 6rem;
     }
 }
 
@@ -1585,7 +1587,7 @@ a:active {
 
 .entry-meta {
     color: #a8a8a7;
-    font-size: 0.65rem;
+    font-size: 0.95rem;
     letter-spacing: 2px;
     margin: 0 0 1.25rem;
     text-transform: uppercase;

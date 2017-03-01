@@ -80,7 +80,7 @@ class chills_profiles_widget extends WP_Widget {
 			<?php while ( $the_profile_query->have_posts() ) : $the_profile_query->the_post(); ?>
 				<li>
 					<a href="<?php the_permalink(); ?>" class="grid-media">
-						<?php the_post_thumbnail( 'grid-media-image' ); ?>
+						<?php the_post_thumbnail( 'the_cast' ); ?>
 						<div class="grid-block">
 							<div class="grid-block-text-container">
 					    		<h2 class="grid-block-entry-title"><?php the_title(); ?></h2>

@@ -85,7 +85,7 @@ class chills_photos_widget extends WP_Widget {
 		<div class="owl-carousel loop">
 			<?php while ( $the_photos_query->have_posts() ) : $the_photos_query->the_post(); ?>
 				<div class="owl-carousel-item">
-					<?php the_post_thumbnail( 'owl-carousel-image' ); ?>
+					<?php the_post_thumbnail( 'our_past' ); ?>
 				</div>
 			<?php endwhile; ?>
 			<?php wp_reset_postdata(); ?>
