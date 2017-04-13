@@ -74,6 +74,7 @@ class chills_photos_widget extends WP_Widget {
 		    $the_photos_args = array(
 		        'post_status' => 'publish',
 		        'post_type' => 'photo',
+				'posts_per_page' => -1,
 		        'post__not_in' => $exclude_ids,
 		    );
 		    

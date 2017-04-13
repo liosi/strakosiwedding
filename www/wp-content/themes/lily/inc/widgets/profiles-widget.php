@@ -79,7 +79,7 @@ class chills_profiles_widget extends WP_Widget {
 		<ul class="grid effect-8" id="grid">
 			<?php while ( $the_profile_query->have_posts() ) : $the_profile_query->the_post(); ?>
 				<li>
-					<a href="<?php the_permalink(); ?>" class="grid-media">
+					<!--<a href="<?php //the_permalink(); ?>" class="grid-media"> -->
 						<?php the_post_thumbnail( 'the_cast' ); ?>
 						<div class="grid-block">
 							<div class="grid-block-text-container">
@@ -89,7 +89,7 @@ class chills_profiles_widget extends WP_Widget {
 					    		<?php endif; ?>
 					    	</div>
 					  	</div>
-					</a>
+					<!-- </a> -->
 				</li>
 			<?php endwhile; ?>
 			<?php wp_reset_postdata(); ?>

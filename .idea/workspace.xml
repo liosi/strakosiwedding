@@ -2,9 +2,125 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1199a068-9ae8-400e-a52c-3b0f12d21644" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000-1-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000-1-300x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000-1-530x530.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000-1-600x600.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000-1-75x75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000-1-768x768.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000-1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000-300x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000-530x530.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000-600x600.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000-75x75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000-768x768.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x1000.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x500-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x500-300x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x500-600x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x500-75x38.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x500-768x384.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x500-800x400.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1000x500.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1200x1000-1024x853.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1200x1000-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1200x1000-300x250.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1200x1000-600x500.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1200x1000-636x530.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1200x1000-75x63.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1200x1000-768x640.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1200x1000.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-1-1024x576.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-1-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-1-300x169.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-1-600x338.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-1-75x42.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-1-768x432.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-1-800x450.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-1024x576.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-2-1024x576.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-2-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-2-300x169.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-2-600x338.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-2-75x42.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-2-768x432.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-2-800x450.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-3-1024x576.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-3-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-3-300x169.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-3-600x338.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-3-75x42.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-3-768x432.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-3-800x450.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-300x169.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-600x338.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-75x42.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-768x432.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080-800x450.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/1920x1080.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-1-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-1-300x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-1-75x75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-10-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-10-300x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-10-75x75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-2-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-2-300x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-2-75x75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-3-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-3-300x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-3-75x75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-300x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-4-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-4-300x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-4-75x75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-5-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-5-300x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-5-75x75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-6-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-6-300x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-6-75x75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-7-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-7-300x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-7-75x75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-75x75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-8-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-8-300x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-8-75x75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-9-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-9-300x300.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-9-75x75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400-9.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/400x400.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/cropped-1920x1080-2-1024x576.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/cropped-1920x1080-2-150x150.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/cropped-1920x1080-2-300x169.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/cropped-1920x1080-2-600x338.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/cropped-1920x1080-2-75x42.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/cropped-1920x1080-2-768x432.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/cropped-1920x1080-2-800x450.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/wp-content/uploads/2015/07/cropped-1920x1080-2.gif" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/wedding.iml" afterPath="$PROJECT_DIR$/.idea/wedding.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/photos-widget.php" afterPath="$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/photos-widget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/profiles-widget.php" afterPath="$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/profiles-widget.php" />
     </list>
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +128,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="wedding" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4515">
-              <caret line="305" column="0" lean-forward="false" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="305" column="0" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -31,18 +151,8 @@
       <file leaf-file-name="wp-config.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/wp-config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="46" column="15" lean-forward="false" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state vertical-scroll-proportion="-18.125">
+              <caret line="46" column="15" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -51,8 +161,8 @@
       <file leaf-file-name="photos-widget.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/photos-widget.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.25490198">
+              <caret line="76" column="39" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -61,8 +171,8 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -71,8 +181,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23835">
-              <caret line="1589" column="23" lean-forward="false" selection-start-line="1589" selection-start-column="23" selection-end-line="1589" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1589" column="23" selection-start-line="1589" selection-start-column="23" selection-end-line="1589" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -81,34 +191,51 @@
       <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content-event.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="content-event.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/template-parts/content-event.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="profiles-widget.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="homepage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/homepage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.5">
+              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profiles-widget.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/profiles-widget.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1095">
-              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.1353211">
+              <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -128,29 +255,36 @@
         <option value="$PROJECT_DIR$/www/.htaccess" />
         <option value="$PROJECT_DIR$/www/wp-content/themes/lily/template-parts/content-event.php" />
         <option value="$PROJECT_DIR$/www/wp-content/themes/lily/style.css" />
-        <option value="$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/photos-widget.php" />
         <option value="$PROJECT_DIR$/www/wp-content/themes/lily/functions.php" />
-        <option value="$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/profiles-widget.php" />
         <option value="$PROJECT_DIR$/www/wp-config.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/photos-widget.php" />
+        <option value="$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/profiles-widget.php" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="63" />
-    <option name="y" value="84" />
+    <option name="x" value="471" />
+    <option name="y" value="78" />
     <option name="width" value="1405" />
     <option name="height" value="993" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -167,7 +301,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -175,9 +308,15 @@
               <option name="myItemId" value="wedding" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="wedding" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -187,22 +326,152 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="wedding" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template-parts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wedding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lily" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -211,16 +480,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -234,12 +494,7 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
-      <PhpTestRunnerSettings />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -248,35 +503,18 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
+      <command value="run-script" />
       <scripts />
-      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1199a068-9ae8-400e-a52c-3b0f12d21644" name="Default" comment="" />
       <created>1486425484765</created>
       <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
       <updated>1486425484765</updated>
       <workItem from="1486425486290" duration="734000" />
       <workItem from="1486507109036" duration="935000" />
@@ -288,33 +526,35 @@
       <workItem from="1488405146916" duration="1491000" />
       <workItem from="1488406840368" duration="587000" />
       <workItem from="1488488108083" duration="602000" />
+      <workItem from="1489440958918" duration="63000" />
+      <workItem from="1489616838350" duration="792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13778000" />
+    <option name="totallyTimeSpent" value="14633000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="63" y="84" width="1405" height="993" extended-state="0" />
+    <frame x="471" y="78" width="1405" height="993" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24911033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24911033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,397 +571,405 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/photos-widget.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23835">
-          <caret line="1589" column="23" lean-forward="false" selection-start-line="1589" selection-start-column="23" selection-end-line="1589" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1589" column="23" selection-start-line="1589" selection-start-column="23" selection-end-line="1589" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/template-parts/content-event.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/profiles-widget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4515">
-          <caret line="305" column="0" lean-forward="false" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="305" column="0" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="88" column="42" lean-forward="false" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="88" column="42" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/photos-widget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="40" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23835">
-          <caret line="1589" column="23" lean-forward="false" selection-start-line="1589" selection-start-column="23" selection-end-line="1589" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1589" column="23" selection-start-line="1589" selection-start-column="23" selection-end-line="1589" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/template-parts/content-event.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/profiles-widget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="88" column="42" lean-forward="false" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="88" column="42" selection-start-line="88" selection-start-column="42" selection-end-line="88" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/photos-widget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="40" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23835">
-          <caret line="1589" column="23" lean-forward="false" selection-start-line="1589" selection-start-column="23" selection-end-line="1589" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1589" column="23" selection-start-line="1589" selection-start-column="23" selection-end-line="1589" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/template-parts/content-event.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4800">
-          <caret line="324" column="0" lean-forward="false" selection-start-line="324" selection-start-column="0" selection-end-line="324" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="324" column="0" selection-start-line="324" selection-start-column="0" selection-end-line="324" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/photos-widget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="40" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23835">
-          <caret line="1589" column="23" lean-forward="false" selection-start-line="1589" selection-start-column="23" selection-end-line="1589" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1589" column="23" selection-start-line="1589" selection-start-column="23" selection-end-line="1589" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/template-parts/content-event.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/homepage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="48" lean-forward="true" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config-sample.php" />
     <entry file="file://$PROJECT_DIR$/www/wp-content/plugins/lily-toolkit/lily-toolkit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-156">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/events-widget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/homepage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/template-parts/content-single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4515">
-          <caret line="305" column="0" lean-forward="false" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/template-parts/content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="46" column="15" lean-forward="false" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/photos-widget.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="86" column="40" lean-forward="false" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="40" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23835">
-          <caret line="1589" column="23" lean-forward="false" selection-start-line="1589" selection-start-column="23" selection-end-line="1589" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1589" column="23" selection-start-line="1589" selection-start-column="23" selection-end-line="1589" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/profiles-widget.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/template-parts/content-event.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/photos-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25490198">
+          <caret line="76" column="39" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/extras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.014908257">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/customizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.2247705">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03348214">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.125">
+          <caret line="46" column="15" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="305" column="0" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/wp-content/themes/lily/inc/widgets/profiles-widget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.1353211">
+          <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
           <folding />
         </state>
       </provider>
